@@ -1,0 +1,300 @@
+[Root]
+Most Recent Package=SGP
+
+
+[Package|Sistema de ódenes de compra|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Javier\A01\Instalador
+
+[Package|Sistema de ódenes de compra|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Sistema de ódenes de compra|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Sistema de ódenes de compra|Files Found]
+
+[Package|Sistema de ódenes de compra|Files Released]
+
+[Package|Sistema de ódenes de compra|Missing Dependency Information]
+C:\WINNT\system32\pdfexpt.dll=
+
+[Package|Sistema de ódenes de compra|Out-of-Date Dependency Information]
+
+[Package|Sistema de ódenes de compra|Files Added]
+
+[Package|Sistema de ódenes de compra|Files Removed]
+
+[Package|Sistema de ódenes de compra|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6ES.DLL=Yes
+C:\WINNT\system32\MSRDO20.DLL=Yes
+C:\WINNT\system32\RDOCURS.DLL=Yes
+C:\WINNT\system32\RDO20ES.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTES.DLL=Yes
+C:\Archivos de programa\Microsoft Office\Office\EXCEL9.OLB=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2ES.DLL=Yes
+C:\WINNT\system32\COMDLG32.OCX=Yes
+C:\WINNT\system32\CMDLGES.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCES.DLL=Yes
+C:\WINNT\system32\MSMASK32.OCX=Yes
+C:\WINNT\system32\MSMSKES.DLL=Yes
+C:\WINNT\system32\ComboEspecial.ocx=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Javier\A01\A01.exe=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\TABCTES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\pdfexpt.dll=Yes
+C:\WINNT\system32\arpro2.dll=Yes
+
+[Package|Sistema de ódenes de compra|Configure Registry Files]
+Applicable=No
+
+[Package|Sistema de ódenes de compra|Configure Remote Servers]
+Applicable=No
+
+[Package|Sistema de ódenes de compra|Install Locations]
+C:\Javier\Sist de Órdenes de compras\A01.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINNT\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINNT\system32\arpro2.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office\EXCEL9.OLB=$(WinSysPath)
+C:\WINNT\system32\pdfexpt.dll=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINNT\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSMSKES.DLL=$(WinSysPath)
+C:\WINNT\system32\ComboEspecial.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Javier\A01\A01.exe=$(AppPath)
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\arpro2.dll=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\TABCTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\pdfexpt.dll=$(WinSysPath)
+
+[Package|Sistema de ódenes de compra|Configure Shared Files]
+Applicable=Yes
+C:\Javier\Sist de Órdenes de compras\A01.exe=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Javier\A01\A01.exe=No
+
+[Package|Sistema de ódenes de compra|Distribution]
+Type=single
+Size=
+Title=Órdenes de Compra
+
+[Package|Sistema de ódenes de compra|IconGroups]
+Group0=Órdenes de Compra
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Sistema de ódenes de compra|Órdenes de Compra]
+Icon1=A01.exe
+Title1=Órdenes de Compra
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Sistema de ódenes de compra|Package]
+PackageFolder=C:\Javier\A01\Instalador
+ProjectFolder=C:\Javier\A01
+ServerSideCab=
+File1=C:\Javier\A01\Instalador\setup.exe
+File2=C:\Javier\A01\Instalador\Setup.Lst
+File3=C:\Javier\A01\Instalador\A01.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|SGP|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Instalador A01
+
+[Package|SGP|Configure DAO ISAMs]
+Applicable=No
+
+[Package|SGP|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|SGP|Files Found]
+
+[Package|SGP|Files Released]
+
+[Package|SGP|Missing Dependency Information]
+C:\WINNT\system32\pdfexpt.dll=
+C:\WINNT\system32\ComboEspecial.ocx=
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\pdfexpt.dll=
+C:\Archivos de programa\Microsoft Office\Office\EXCEL9.OLB=
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\arpro2.dll=
+C:\WINNT\system32\msstdfmt.dll=
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\htmlexpt.dll=
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\tiffexpt.dll=
+C:\WINNT\system32\arpro2.dll=
+C:\WINNT\system32\WININET.DLL=
+
+[Package|SGP|Out-of-Date Dependency Information]
+C:\WINNT\system32\MSCOMCTL.OCX=
+C:\WINNT\system32\COMDLG32.OCX=
+C:\WINNT\system32\MSRDO20.DLL=
+C:\WINNT\system32\mscomct2.ocx=
+C:\WINNT\system32\TABCTL32.OCX=
+C:\WINNT\system32\MSMASK32.OCX=
+
+[Package|SGP|Files Added]
+
+[Package|SGP|Files Removed]
+
+[Package|SGP|Files In Project]
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6ES.DLL=Yes
+C:\WINNT\system32\MSRDO20.DLL=Yes
+C:\WINNT\system32\RDOCURS.DLL=Yes
+C:\WINNT\system32\RDO20ES.DLL=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\Archivos de programa\Microsoft Office\Office\EXCEL9.OLB=Yes
+C:\WINNT\system32\MSCOMCT2.OCX=Yes
+C:\WINNT\system32\MSCC2ES.DLL=Yes
+C:\WINNT\system32\COMDLG32.OCX=Yes
+C:\WINNT\system32\CMDLGES.DLL=Yes
+C:\WINNT\system32\MSCOMCTL.OCX=Yes
+C:\WINNT\system32\MSCMCES.DLL=Yes
+C:\WINNT\system32\MSMASK32.OCX=Yes
+C:\WINNT\system32\MSMSKES.DLL=Yes
+C:\WINNT\system32\ComboEspecial.ocx=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINNT\system32\TABCTL32.OCX=Yes
+C:\WINNT\system32\TABCTES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\pdfexpt.dll=Yes
+E:\Javier\A01\A01.exe=Yes
+C:\WINNT\system32\OLEAUT32.DLL=Yes
+C:\WINNT\system32\OLEPRO32.DLL=Yes
+C:\WINNT\system32\ASYCFILT.DLL=Yes
+C:\WINNT\system32\STDOLE2.TLB=Yes
+C:\WINNT\system32\WININET.DLL=Yes
+C:\WINNT\system32\arpro2.dll=Yes
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\tiffexpt.dll=Yes
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\htmlexpt.dll=Yes
+C:\WINNT\system32\MSMAPI32.OCX=Yes
+C:\WINNT\system32\MSMPIES.DLL=Yes
+
+[Package|SGP|Configure Registry Files]
+Applicable=No
+
+[Package|SGP|Configure Remote Servers]
+Applicable=No
+
+[Package|SGP|Install Locations]
+C:\Javier\Sist de Órdenes de compras\A01.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINNT\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINNT\system32\arpro2.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office\EXCEL9.OLB=$(WinSysPath)
+C:\WINNT\system32\pdfexpt.dll=$(WinSysPath)
+C:\WINNT\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINNT\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINNT\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINNT\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSMSKES.DLL=$(WinSysPath)
+C:\WINNT\system32\ComboEspecial.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Javier\A01\A01.exe=$(AppPath)
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\arpro2.dll=$(WinSysPath)
+C:\WINNT\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINNT\system32\TABCTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\pdfexpt.dll=$(WinSysPath)
+E:\Javier\A01\A01.exe=$(AppPath)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINNT\system32\WININET.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\tiffexpt.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Data Dynamics\ActiveReports Pro\htmlexpt.dll=$(WinSysPath)
+C:\WINNT\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINNT\system32\MSMPIES.DLL=$(WinSysPath)
+
+[Package|SGP|Configure Shared Files]
+Applicable=Yes
+C:\Javier\Sist de Órdenes de compras\A01.exe=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Javier\A01\A01.exe=No
+E:\Javier\A01\A01.exe=Yes
+
+[Package|SGP|Distribution]
+Type=single
+Size=
+Title=Sistema de Gestión de Presupuestario
+
+[Package|SGP|Package]
+PackageFolder=C:\Instalador A01
+ProjectFolder=E:\Javier\A01
+ServerSideCab=
+File1=C:\Instalador A01\setup.exe
+File2=C:\Instalador A01\Setup.Lst
+File3=C:\Instalador A01\A01.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|SGP|IconGroups]
+Group0=Órdenes de Compra
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|SGP|Órdenes de Compra]
+Icon1=A01.exe
+Title1=SGP
+StartIn1=$(AppPath)
+Key1=Icon1
